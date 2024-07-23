@@ -2,7 +2,7 @@
 
 This repo contains a simple example and documentation of how to use the testrunner scripts in the repo.
 
-The exampleusingtestrunner repo is not needed to run testrunner on your own application.
+The example-using-testrunner repo is not needed to run testrunner on your own application.
 
 # Running the example
 
