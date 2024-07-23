@@ -34,7 +34,7 @@ example.py will generate a log file called log-date-time.txt listing the command
 
 Input files (inputstrings.py, test.csv) are provided to run example-simple.py.
 
-4) Now, let's say you want to do performance evaluation in a directory called `fortress-eval`.  Check out testrunner within `fortress-eval` (step 1 above).  Copy example.py, Makefile, requirements.txt from here into `fortress-eval`.  Run step 2 above within `fortress-eval`. Modify example.py to suite your purpose.
+4) Now, let's say you want to do performance evaluation in a directory called `fortress-eval`.  Check out testrunner within `fortress-eval` (step 1 above).  Copy example.py, requirements.txt from here into `fortress-eval`.  Run step 2 above within `fortress-eval`. Modify example.py to suite your purpose.
 
 More complicated examples of how to use testrunner can be found in other evaluation repos of Watform.
    
