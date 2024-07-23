@@ -30,11 +30,13 @@ testrunner should be a subdirectory of example-using-testrunner now.
 
 `./example.py`  # to execute the command with options as described in example.py in venv
 
-example.py will generate a log file called log-date-time.txt listing the commands run and showing all their option value combinations.
+example.py will generate a log file called log-date-time.txt listing the commands run and showing all their option value combinations plus their stdout and stderr output.
 
 Input files (inputstrings.py, test.csv) are provided to run example-simple.py.
 
 4) Now, let's say you want to do performance evaluation in a directory called `fortress-eval`.  Check out testrunner within `fortress-eval` (step 1 above).  Copy example.py, Makefile, requirements.txt from here into `fortress-eval`.  Run step 2 above within `fortress-eval`. Modify example.py to suite your purpose.
+
+More complicated examples of how to use testrunner can be found in other evaluation repos of Watform.
    
 ## Acknowledgements
 
