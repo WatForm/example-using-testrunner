@@ -37,4 +37,4 @@ setup_logging_debug()
 testRunner = TestRunner(command, op, numbers, text, csv_opt, timeout=2000)
 
 # iterates commands on option values and spews unprocessed output to the screen
-testRunner.run()
+testRunner.run(iterations=3, skip=4)
